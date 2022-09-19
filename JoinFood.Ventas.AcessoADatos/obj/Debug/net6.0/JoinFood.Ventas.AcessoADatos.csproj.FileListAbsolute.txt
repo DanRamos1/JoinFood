@@ -1,0 +1,15 @@
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\bin\Debug\net6.0\JoinFood.Ventas.AcessoADatos.deps.json
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\bin\Debug\net6.0\JoinFood.Ventas.AcessoADatos.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\bin\Debug\net6.0\JoinFood.Ventas.AcessoADatos.pdb
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\bin\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\bin\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.pdb
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.csproj.AssemblyReference.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.AssemblyInfoInputs.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.AssemblyInfo.cs
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.csproj.CoreCompileInputs.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.csproj.CopyComplete
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\refint\JoinFood.Ventas.AcessoADatos.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\JoinFood.Ventas.AcessoADatos.pdb
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.AcessoADatos\obj\Debug\net6.0\ref\JoinFood.Ventas.AcessoADatos.dll

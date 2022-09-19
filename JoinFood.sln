@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinFood.Ventas.AcessoADatos", "JoinFood.Ventas.AcessoADatos\JoinFood.Ventas.AcessoADatos.csproj", "{04227C64-58F2-45A3-874A-C6E54B57AAFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinFood.Ventas.EntidadesDeNegocio", "JoinFood.Ventas.EntidadesDeNegocio\JoinFood.Ventas.EntidadesDeNegocio.csproj", "{E7B93A5B-8B1E-4D1E-B155-743768F4475F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinFood.Ventas.LogicaDeNegocio", "JoinFood.Ventas.LogicaDeNegocio\JoinFood.Ventas.LogicaDeNegocio.csproj", "{710AD8DB-3F58-490E-A5A3-1D72F927AF0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinFood.Ventas.PruebasUnitarias", "JoinFood.Ventas.PruebasUnitarias\JoinFood.Ventas.PruebasUnitarias.csproj", "{EC0BA68F-5554-438D-AA7A-E04E2991B431}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JoinFood.Ventas.WebAPI", "JoinFood.Ventas.WebAPI\JoinFood.Ventas.WebAPI.csproj", "{5C4A452B-3CA4-4D77-8E8D-A057FC061C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinFood.Ventas.UI.WebApp", "JoinFood.Ventas.UI.WebApp\JoinFood.Ventas.UI.WebApp.csproj", "{14667301-27CF-4556-8471-6950E2B56999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04227C64-58F2-45A3-874A-C6E54B57AAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04227C64-58F2-45A3-874A-C6E54B57AAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04227C64-58F2-45A3-874A-C6E54B57AAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04227C64-58F2-45A3-874A-C6E54B57AAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B93A5B-8B1E-4D1E-B155-743768F4475F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B93A5B-8B1E-4D1E-B155-743768F4475F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B93A5B-8B1E-4D1E-B155-743768F4475F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B93A5B-8B1E-4D1E-B155-743768F4475F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710AD8DB-3F58-490E-A5A3-1D72F927AF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710AD8DB-3F58-490E-A5A3-1D72F927AF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710AD8DB-3F58-490E-A5A3-1D72F927AF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710AD8DB-3F58-490E-A5A3-1D72F927AF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0BA68F-5554-438D-AA7A-E04E2991B431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0BA68F-5554-438D-AA7A-E04E2991B431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0BA68F-5554-438D-AA7A-E04E2991B431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0BA68F-5554-438D-AA7A-E04E2991B431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C4A452B-3CA4-4D77-8E8D-A057FC061C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4A452B-3CA4-4D77-8E8D-A057FC061C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4A452B-3CA4-4D77-8E8D-A057FC061C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4A452B-3CA4-4D77-8E8D-A057FC061C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14667301-27CF-4556-8471-6950E2B56999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14667301-27CF-4556-8471-6950E2B56999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14667301-27CF-4556-8471-6950E2B56999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14667301-27CF-4556-8471-6950E2B56999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709EFAD6-5883-4877-81DE-46658844EA7A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\bin\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.deps.json
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\bin\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\bin\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.pdb
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.csproj.AssemblyReference.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\refint\JoinFood.Ventas.EntidadesDeNegocio.dll
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\JoinFood.Ventas.EntidadesDeNegocio.pdb
+C:\Users\vinny\OneDrive\Escritorio\SysJoinFood\JoinFood\JoinFood.Ventas.EntidadesDeNegocio\obj\Debug\net6.0\ref\JoinFood.Ventas.EntidadesDeNegocio.dll
