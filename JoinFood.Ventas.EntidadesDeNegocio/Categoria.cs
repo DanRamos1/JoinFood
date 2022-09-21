@@ -11,7 +11,7 @@ namespace JoinFood.Ventas.EntidadesDeNegocio
         [Display(Name = "Nombre Categoria")]
         [StringLength(50, ErrorMessage = "El campo {0} debe tener maximo {1} caracteres")]
         [Required(ErrorMessage = "El campo {0} es requerido")]
-        public string? Nombre { get; set; }
+        public string Nombre { get; set; }
 
         [NotMapped]
         public int Top_Aux { get; set; }

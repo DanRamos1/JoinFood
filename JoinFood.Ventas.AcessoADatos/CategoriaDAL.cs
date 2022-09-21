@@ -19,11 +19,11 @@ namespace JoinFood.Ventas.AcessoADatos
         public static async Task<int> Modificar(Categoria pCategoria)
         {
             int resul = 0;
-            using (DBContext dbContext = new DBContext())
+            using (var dbContext = new DBContext())
             {
                 var categoria = await dbContext.Categoria.FirstOrDefaultAsync(c => c.Id == pCategoria.Id);
                 categoria.Nombre = pCategoria.Nombre;
-                dbContext.Categoria.Update(categoria);
+                dbContext.Update(categoria);
                 resul = await dbContext.SaveChangesAsync();
             }
             return resul;
