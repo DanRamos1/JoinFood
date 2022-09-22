@@ -109,7 +109,7 @@ namespace JoinFood.Ventas.AcessoADatos
             return usuario;
         }
 
-        internal static IQueryable<Usuario> QuerySelect(IQueryable<Usuario> pQuery, Usuario? pUsuario)
+        internal static IQueryable<Usuario> QuerySelect(IQueryable<Usuario> pQuery, Usuario pUsuario)
         {
             if (pUsuario.IdRol > 0)
             {
