@@ -5,7 +5,7 @@ namespace JoinFood.Ventas.AcessoADatos.Tests
     [TestClass()]
     public class CategoriaDALTests
     {
-        private static Categoria categoriaInicial = new Categoria { Id = 16 };
+        private static Categoria categoriaInicial = new Categoria { Id = 20};
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
