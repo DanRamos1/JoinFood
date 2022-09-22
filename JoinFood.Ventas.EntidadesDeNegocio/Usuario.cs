@@ -53,6 +53,8 @@ namespace JoinFood.Ventas.EntidadesDeNegocio
         [Required(ErrorMessage = "El campo {0} es requerido")]
         public DateTime FechaNacimiento { get; set; }
 
+        public byte Estado { get; set; }
+
         public DateTime Fecha { get; set; }
 
         [NotMapped]
